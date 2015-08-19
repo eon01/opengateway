@@ -1,0 +1,1 @@
+CDMA / GSM sms gateway
